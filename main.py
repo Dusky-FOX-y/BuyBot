@@ -5,6 +5,9 @@
 
 import uvicorn
 from goods.api import goods_router
+from user.api import user_router
+from order.api import order_router
+from order_list.api import orderlist_router
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
@@ -40,11 +43,11 @@ async def shutdown() -> None:
 
 
 app.include_router(goods_router)
-
-
-# app.include_router(game_router)
+app.include_router(user_router)
+app.include_router(order_router)
+app.include_router(orderlist_router)
 
 # app.include_router(user_router)
 
 if __name__ == "__main__":
-    uvicorn.run(app, use_colors=True, host="176.99.12.178")
+    uvicorn.run(app, use_colors=True)
