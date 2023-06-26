@@ -129,10 +129,13 @@ dmypy.json
 .pyre/
 
 # Sqlite db
-# *.db
+*.db
 
 # Pipenv file
 Pipfile.lock
 
 # Media files
 # media/
+.idea
+.vscode
+
