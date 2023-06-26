@@ -4,14 +4,12 @@
 # from game.api import game_router
 
 import uvicorn
-from jobs.api import jobs_router
-from employee.api import auth_router, employee_router
+from goods.api import goods_router
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from db import database, engine, metadata
-from incomes.api import income_router
 
 app = FastAPI()
 
@@ -41,10 +39,8 @@ async def shutdown() -> None:
         await database_.disconnect()
 
 
-app.include_router(jobs_router)
-app.include_router(income_router)
-app.include_router(auth_router)
-app.include_router(employee_router)
+app.include_router(goods_router)
+
 
 # app.include_router(game_router)
 
