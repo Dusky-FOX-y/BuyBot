@@ -1,0 +1,1119 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "aiofiles",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "aiofiles",
+        "description": "aiofiles",
+        "detail": "aiofiles",
+        "documentation": {}
+    },
+    {
+        "label": "get_uuid",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "MainMeta",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_uuid",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "MainMeta",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_uuid",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "MainMeta",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_uuid",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "MainMeta",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "MainMeta",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "database",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "metadata",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Form",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Cookie",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Form",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "media_dir",
+        "importPath": "pizza.api",
+        "description": "pizza.api",
+        "isExtraImport": true,
+        "detail": "pizza.api",
+        "documentation": {}
+    },
+    {
+        "label": "pizza_router",
+        "importPath": "pizza.api",
+        "description": "pizza.api",
+        "isExtraImport": true,
+        "detail": "pizza.api",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "pizza.schemas",
+        "description": "pizza.schemas",
+        "isExtraImport": true,
+        "detail": "pizza.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "PizzaDough",
+        "importPath": "pizza.schemas",
+        "description": "pizza.schemas",
+        "isExtraImport": true,
+        "detail": "pizza.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "PizzaPiece",
+        "importPath": "pizza.schemas",
+        "description": "pizza.schemas",
+        "isExtraImport": true,
+        "detail": "pizza.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "PizzaSize",
+        "importPath": "pizza.schemas",
+        "description": "pizza.schemas",
+        "isExtraImport": true,
+        "detail": "pizza.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "PizzaDough",
+        "importPath": "pizza.schemas",
+        "description": "pizza.schemas",
+        "isExtraImport": true,
+        "detail": "pizza.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "PizzaPiece",
+        "importPath": "pizza.schemas",
+        "description": "pizza.schemas",
+        "isExtraImport": true,
+        "detail": "pizza.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "PizzaSize",
+        "importPath": "pizza.schemas",
+        "description": "pizza.schemas",
+        "isExtraImport": true,
+        "detail": "pizza.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
+        "documentation": {}
+    },
+    {
+        "label": "current_superuser_user",
+        "importPath": "user.auth",
+        "description": "user.auth",
+        "isExtraImport": true,
+        "detail": "user.auth",
+        "documentation": {}
+    },
+    {
+        "label": "current_active_user",
+        "importPath": "user.auth",
+        "description": "user.auth",
+        "isExtraImport": true,
+        "detail": "user.auth",
+        "documentation": {}
+    },
+    {
+        "label": "current_superuser_user",
+        "importPath": "user.auth",
+        "description": "user.auth",
+        "isExtraImport": true,
+        "detail": "user.auth",
+        "documentation": {}
+    },
+    {
+        "label": "current_superuser_user",
+        "importPath": "user.auth",
+        "description": "user.auth",
+        "isExtraImport": true,
+        "detail": "user.auth",
+        "documentation": {}
+    },
+    {
+        "label": "current_superuser_user",
+        "importPath": "user.auth",
+        "description": "user.auth",
+        "isExtraImport": true,
+        "detail": "user.auth",
+        "documentation": {}
+    },
+    {
+        "label": "UserDB",
+        "importPath": "user.schemas",
+        "description": "user.schemas",
+        "isExtraImport": true,
+        "detail": "user.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserDB",
+        "importPath": "user.schemas",
+        "description": "user.schemas",
+        "isExtraImport": true,
+        "detail": "user.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserDB",
+        "importPath": "user.schemas",
+        "description": "user.schemas",
+        "isExtraImport": true,
+        "detail": "user.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserDB",
+        "importPath": "user.schemas",
+        "description": "user.schemas",
+        "isExtraImport": true,
+        "detail": "user.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserDB",
+        "importPath": "user.schemas",
+        "description": "user.schemas",
+        "isExtraImport": true,
+        "detail": "user.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ormar",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ormar",
+        "description": "ormar",
+        "detail": "ormar",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "UUID4",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "user.models",
+        "description": "user.models",
+        "isExtraImport": true,
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "user.models",
+        "description": "user.models",
+        "isExtraImport": true,
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "fastapi_users",
+        "description": "fastapi_users",
+        "isExtraImport": true,
+        "detail": "fastapi_users",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPIUsers",
+        "importPath": "fastapi_users",
+        "description": "fastapi_users",
+        "isExtraImport": true,
+        "detail": "fastapi_users",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "fastapi_users",
+        "description": "fastapi_users",
+        "isExtraImport": true,
+        "detail": "fastapi_users",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticationBackend",
+        "importPath": "fastapi_users.authentication",
+        "description": "fastapi_users.authentication",
+        "isExtraImport": true,
+        "detail": "fastapi_users.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "CookieTransport",
+        "importPath": "fastapi_users.authentication",
+        "description": "fastapi_users.authentication",
+        "isExtraImport": true,
+        "detail": "fastapi_users.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "JWTStrategy",
+        "importPath": "fastapi_users.authentication",
+        "description": "fastapi_users.authentication",
+        "isExtraImport": true,
+        "detail": "fastapi_users.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "OrmarUserDatabase",
+        "importPath": "fastapi_users.db",
+        "description": "fastapi_users.db",
+        "isExtraImport": true,
+        "detail": "fastapi_users.db",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "databases",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "databases",
+        "description": "databases",
+        "detail": "databases",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "additive_router",
+        "importPath": "additive.api",
+        "description": "additive.api",
+        "isExtraImport": true,
+        "detail": "additive.api",
+        "documentation": {}
+    },
+    {
+        "label": "cart_router",
+        "importPath": "cart.api",
+        "description": "cart.api",
+        "isExtraImport": true,
+        "detail": "cart.api",
+        "documentation": {}
+    },
+    {
+        "label": "ticket_router",
+        "importPath": "ticket.api",
+        "description": "ticket.api",
+        "isExtraImport": true,
+        "detail": "ticket.api",
+        "documentation": {}
+    },
+    {
+        "label": "FileResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "user_router",
+        "importPath": "user.api",
+        "description": "user.api",
+        "isExtraImport": true,
+        "detail": "user.api",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "additive_router",
+        "kind": 5,
+        "importPath": "additive.api",
+        "description": "additive.api",
+        "peekOfCode": "additive_router = APIRouter(prefix='/additive', tags=[\"additive\"])\n# @additive_router.post(\"/create\", response_model=CreateAdditive)\n# async def create_additive(name: str, photo: str, price: int, user: UserDB = current_superuser_user):\n#     return await Additive.objects.create(product_id=get_uuid(), name=name, photo=photo, price=price)\n@additive_router.post(\"/create\", response_model=CreateAdditive, responses={404: {\"model\": Message}})\nasync def create_pizza_template(\n        name: str = Form(...), price: int = Form(...),\n        photo: UploadFile = File(...), user: UserDB = current_superuser_user):\n    filename_ = f\"ADDITIVE_{get_uuid()}_{photo.filename}\"\n    filename = os.path.join(media_dir, filename_)",
+        "detail": "additive.api",
+        "documentation": {}
+    },
+    {
+        "label": "Additive",
+        "kind": 6,
+        "importPath": "additive.models",
+        "description": "additive.models",
+        "peekOfCode": "class Additive(ormar.Model):\n    class Meta(MainMeta):\n        pass\n    product_id: str = ormar.String(primary_key=True, max_length=255)\n    name: str = ormar.String(max_length=255)\n    photo: str = ormar.String(max_length=1024)\n    price: int = ormar.Integer(minimum=0)",
+        "detail": "additive.models",
+        "documentation": {}
+    },
+    {
+        "label": "CreateAdditive",
+        "kind": 6,
+        "importPath": "additive.schemas",
+        "description": "additive.schemas",
+        "peekOfCode": "class CreateAdditive(BaseModel):\n    product_id: str\n    name: str\n    photo: str\n    price: int\nclass GetAdditive(CreateAdditive):\n    pass",
+        "detail": "additive.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "GetAdditive",
+        "kind": 6,
+        "importPath": "additive.schemas",
+        "description": "additive.schemas",
+        "peekOfCode": "class GetAdditive(CreateAdditive):\n    pass",
+        "detail": "additive.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "cart_router",
+        "kind": 5,
+        "importPath": "cart.api",
+        "description": "cart.api",
+        "peekOfCode": "cart_router = APIRouter(prefix='/cart', tags=[\"cart\"])\n@cart_router.post(\"/create\", response_model=CreateCartItem)\nasync def create_cart_item(name: str,\n                           count: int,\n                           ingredients: str,\n                           dough: PizzaDough,\n                           size: PizzaSize,\n                           pieces: PizzaPiece,\n                           final_price: int,\n                           response: Response,",
+        "detail": "cart.api",
+        "documentation": {}
+    },
+    {
+        "label": "Cart",
+        "kind": 6,
+        "importPath": "cart.models",
+        "description": "cart.models",
+        "peekOfCode": "class Cart(ormar.Model):\n    class Meta(MainMeta):\n        pass\n    item_id: str = ormar.String(primary_key=True, max_length=255)\n    name: str = ormar.String(max_length=255)\n    ingredients: str = ormar.String(max_length=1024)\n    count: int = ormar.Integer(minimum=1)\n    dough: str = ormar.String(max_length=255)\n    size: str = ormar.String(max_length=255)\n    pieces: str = ormar.String(max_length=255)",
+        "detail": "cart.models",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "kind": 6,
+        "importPath": "cart.schemas",
+        "description": "cart.schemas",
+        "peekOfCode": "class Message(BaseModel):\n    message: str\nclass CreateCartItem(BaseModel):\n    item_id: str\n    name: str\n    ingredients: str\n    count: int\n    dough: PizzaDough\n    size: PizzaSize\n    pieces: PizzaPiece",
+        "detail": "cart.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CreateCartItem",
+        "kind": 6,
+        "importPath": "cart.schemas",
+        "description": "cart.schemas",
+        "peekOfCode": "class CreateCartItem(BaseModel):\n    item_id: str\n    name: str\n    ingredients: str\n    count: int\n    dough: PizzaDough\n    size: PizzaSize\n    pieces: PizzaPiece\n    final_price: int\n    phone_number: str",
+        "detail": "cart.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "GetCartItem",
+        "kind": 6,
+        "importPath": "cart.schemas",
+        "description": "cart.schemas",
+        "peekOfCode": "class GetCartItem(CreateCartItem):\n    pass",
+        "detail": "cart.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "pizza_router",
+        "kind": 5,
+        "importPath": "pizza.api",
+        "description": "pizza.api",
+        "peekOfCode": "pizza_router = APIRouter(prefix='/pizza', tags=[\"pizza\"])\nmedia_dir = os.path.join(os.getcwd(), \"media\")\n@pizza_router.post(\"/create\", response_model=CreatePizza, responses={404: {\"model\": Message}})\nasync def create_pizza_template(name: str = Form(...),\n                                ingredients: str = Form(...),\n                                photo: UploadFile = File(...),\n                                price_small: int = Form(...),\n                                price_medium: int = Form(...),\n                                price_large: int = Form(...),\n                                user: UserDB = current_superuser_user):",
+        "detail": "pizza.api",
+        "documentation": {}
+    },
+    {
+        "label": "media_dir",
+        "kind": 5,
+        "importPath": "pizza.api",
+        "description": "pizza.api",
+        "peekOfCode": "media_dir = os.path.join(os.getcwd(), \"media\")\n@pizza_router.post(\"/create\", response_model=CreatePizza, responses={404: {\"model\": Message}})\nasync def create_pizza_template(name: str = Form(...),\n                                ingredients: str = Form(...),\n                                photo: UploadFile = File(...),\n                                price_small: int = Form(...),\n                                price_medium: int = Form(...),\n                                price_large: int = Form(...),\n                                user: UserDB = current_superuser_user):\n    filename_ = f\"PIZZA_{get_uuid()}_{photo.filename}\"",
+        "detail": "pizza.api",
+        "documentation": {}
+    },
+    {
+        "label": "PizzaTemplate",
+        "kind": 6,
+        "importPath": "pizza.models",
+        "description": "pizza.models",
+        "peekOfCode": "class PizzaTemplate(ormar.Model):\n    class Meta(MainMeta):\n        pass\n    product_id: str = ormar.String(primary_key=True, max_length=255)\n    name: str = ormar.String(max_length=255)\n    ingredients: str = ormar.String(max_length=1024)\n    photo: str = ormar.String(max_length=1024)\n    price_small: int = ormar.Integer(minimum=0)\n    price_medium: int = ormar.Integer(minimum=0)\n    price_large: int = ormar.Integer(minimum=0)",
+        "detail": "pizza.models",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "kind": 6,
+        "importPath": "pizza.schemas",
+        "description": "pizza.schemas",
+        "peekOfCode": "class Message(BaseModel):\n    message: str\nclass PizzaSize(str, Enum):\n    small = \"Маленькая (25 см.)\"\n    medium = \"Средняя (30 см.)\"\n    large = \"Большая (35 см.)\"\nclass PizzaDough(str, Enum):\n    traditional = \"Традиционное\"\n    thin = \"Тонкое\"\nclass PizzaPiece(str, Enum):",
+        "detail": "pizza.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "PizzaSize",
+        "kind": 6,
+        "importPath": "pizza.schemas",
+        "description": "pizza.schemas",
+        "peekOfCode": "class PizzaSize(str, Enum):\n    small = \"Маленькая (25 см.)\"\n    medium = \"Средняя (30 см.)\"\n    large = \"Большая (35 см.)\"\nclass PizzaDough(str, Enum):\n    traditional = \"Традиционное\"\n    thin = \"Тонкое\"\nclass PizzaPiece(str, Enum):\n    four = \"4\"\n    six = \"6\"",
+        "detail": "pizza.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "PizzaDough",
+        "kind": 6,
+        "importPath": "pizza.schemas",
+        "description": "pizza.schemas",
+        "peekOfCode": "class PizzaDough(str, Enum):\n    traditional = \"Традиционное\"\n    thin = \"Тонкое\"\nclass PizzaPiece(str, Enum):\n    four = \"4\"\n    six = \"6\"\n    eight = \"8\"\nclass CreatePizza(BaseModel):\n    product_id: str\n    name: str",
+        "detail": "pizza.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "PizzaPiece",
+        "kind": 6,
+        "importPath": "pizza.schemas",
+        "description": "pizza.schemas",
+        "peekOfCode": "class PizzaPiece(str, Enum):\n    four = \"4\"\n    six = \"6\"\n    eight = \"8\"\nclass CreatePizza(BaseModel):\n    product_id: str\n    name: str\n    ingredients: str\n    photo: str\n    price_small: int",
+        "detail": "pizza.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CreatePizza",
+        "kind": 6,
+        "importPath": "pizza.schemas",
+        "description": "pizza.schemas",
+        "peekOfCode": "class CreatePizza(BaseModel):\n    product_id: str\n    name: str\n    ingredients: str\n    photo: str\n    price_small: int\n    price_medium: int\n    price_large: int\nclass GetPizza(CreatePizza):\n    pass",
+        "detail": "pizza.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "GetPizza",
+        "kind": 6,
+        "importPath": "pizza.schemas",
+        "description": "pizza.schemas",
+        "peekOfCode": "class GetPizza(CreatePizza):\n    pass",
+        "detail": "pizza.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ticket_router",
+        "kind": 5,
+        "importPath": "ticket.api",
+        "description": "ticket.api",
+        "peekOfCode": "ticket_router = APIRouter(prefix='/ticket', tags=[\"tickets\"])\n@ticket_router.post(\"/create\", response_model=CreateTicket)\nasync def create_ticket(items: str, address: str, phone_number: str, final_price: int):\n    db_user = await User.objects.get_or_none(email=phone_number)\n    if db_user:\n        db_user = db_user.dict()\n        db_user[\"address\"] = address\n        await User.objects.update_or_create(**db_user)\n    return await Ticket.objects.create(\n        ticket=get_uuid(),",
+        "detail": "ticket.api",
+        "documentation": {}
+    },
+    {
+        "label": "Ticket",
+        "kind": 6,
+        "importPath": "ticket.models",
+        "description": "ticket.models",
+        "peekOfCode": "class Ticket(ormar.Model):\n    class Meta(MainMeta):\n        pass\n    ticket: str = ormar.String(primary_key=True, max_length=255)\n    items: str = ormar.String(max_length=4096)\n    status: str = ormar.String(max_length=255)\n    address: str = ormar.String(max_length=255)\n    phone_number: str = ormar.String(max_length=12)\n    final_price: int = ormar.Integer(minimum=0)",
+        "detail": "ticket.models",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "kind": 6,
+        "importPath": "ticket.schemas",
+        "description": "ticket.schemas",
+        "peekOfCode": "class Message(BaseModel):\n    message: str\nclass TicketStatus(str, Enum):\n    in_progress = \"В процессе\"\n    finished = \"Завершён\"\nclass CreateTicket(BaseModel):\n    ticket: str\n    items: str\n    status: TicketStatus\n    address: str",
+        "detail": "ticket.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TicketStatus",
+        "kind": 6,
+        "importPath": "ticket.schemas",
+        "description": "ticket.schemas",
+        "peekOfCode": "class TicketStatus(str, Enum):\n    in_progress = \"В процессе\"\n    finished = \"Завершён\"\nclass CreateTicket(BaseModel):\n    ticket: str\n    items: str\n    status: TicketStatus\n    address: str\n    phone_number: str\n    final_price: int",
+        "detail": "ticket.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CreateTicket",
+        "kind": 6,
+        "importPath": "ticket.schemas",
+        "description": "ticket.schemas",
+        "peekOfCode": "class CreateTicket(BaseModel):\n    ticket: str\n    items: str\n    status: TicketStatus\n    address: str\n    phone_number: str\n    final_price: int\nclass GetTicket(CreateTicket):\n    pass",
+        "detail": "ticket.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "GetTicket",
+        "kind": 6,
+        "importPath": "ticket.schemas",
+        "description": "ticket.schemas",
+        "peekOfCode": "class GetTicket(CreateTicket):\n    pass",
+        "detail": "ticket.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "user_router",
+        "kind": 5,
+        "importPath": "user.api",
+        "description": "user.api",
+        "peekOfCode": "user_router = APIRouter()\nuser_router.include_router(fastapi_users.get_auth_router(auth_backend), prefix=\"/auth\", tags=[\"auth\"])\nuser_router.include_router(fastapi_users.get_register_router(), prefix=\"/auth\", tags=[\"auth\"])\nuser_router.include_router(fastapi_users.get_users_router(), prefix=\"/user\", tags=[\"user\"])\n@user_router.get(\"/get_superuser\")\nasync def activate(user: UserDB = current_active_user):\n    user_data = (await User.objects.get(email=user.email)).dict()\n    user_data[\"is_superuser\"] = True\n    return await User.objects.update_or_create(**user_data)",
+        "detail": "user.api",
+        "documentation": {}
+    },
+    {
+        "label": "UserManager",
+        "kind": 6,
+        "importPath": "user.auth",
+        "description": "user.auth",
+        "peekOfCode": "class UserManager(BaseUserManager[UserCreate, UserDB]):\n    user_db_model = UserDB\n    reset_password_token_secret = SECRET\n    verification_token_secret = SECRET\nasync def get_user_manager(user_db=Depends(get_user_db)):\n    yield UserManager(user_db)\ncookie_transport = CookieTransport(cookie_max_age=3600, cookie_secure=False)\ndef get_jwt_strategy() -> JWTStrategy:\n    return JWTStrategy(secret=SECRET, lifetime_seconds=3600)\nauth_backend = AuthenticationBackend(",
+        "detail": "user.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_strategy",
+        "kind": 2,
+        "importPath": "user.auth",
+        "description": "user.auth",
+        "peekOfCode": "def get_jwt_strategy() -> JWTStrategy:\n    return JWTStrategy(secret=SECRET, lifetime_seconds=3600)\nauth_backend = AuthenticationBackend(\n    name=\"jwt\",\n    transport=cookie_transport,\n    get_strategy=get_jwt_strategy,\n)\nfastapi_users = FastAPIUsers(\n    get_user_manager,\n    [auth_backend],",
+        "detail": "user.auth",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET",
+        "kind": 5,
+        "importPath": "user.auth",
+        "description": "user.auth",
+        "peekOfCode": "SECRET = \"SECRET\"\nclass UserManager(BaseUserManager[UserCreate, UserDB]):\n    user_db_model = UserDB\n    reset_password_token_secret = SECRET\n    verification_token_secret = SECRET\nasync def get_user_manager(user_db=Depends(get_user_db)):\n    yield UserManager(user_db)\ncookie_transport = CookieTransport(cookie_max_age=3600, cookie_secure=False)\ndef get_jwt_strategy() -> JWTStrategy:\n    return JWTStrategy(secret=SECRET, lifetime_seconds=3600)",
+        "detail": "user.auth",
+        "documentation": {}
+    },
+    {
+        "label": "cookie_transport",
+        "kind": 5,
+        "importPath": "user.auth",
+        "description": "user.auth",
+        "peekOfCode": "cookie_transport = CookieTransport(cookie_max_age=3600, cookie_secure=False)\ndef get_jwt_strategy() -> JWTStrategy:\n    return JWTStrategy(secret=SECRET, lifetime_seconds=3600)\nauth_backend = AuthenticationBackend(\n    name=\"jwt\",\n    transport=cookie_transport,\n    get_strategy=get_jwt_strategy,\n)\nfastapi_users = FastAPIUsers(\n    get_user_manager,",
+        "detail": "user.auth",
+        "documentation": {}
+    },
+    {
+        "label": "auth_backend",
+        "kind": 5,
+        "importPath": "user.auth",
+        "description": "user.auth",
+        "peekOfCode": "auth_backend = AuthenticationBackend(\n    name=\"jwt\",\n    transport=cookie_transport,\n    get_strategy=get_jwt_strategy,\n)\nfastapi_users = FastAPIUsers(\n    get_user_manager,\n    [auth_backend],\n    User,\n    UserCreate,",
+        "detail": "user.auth",
+        "documentation": {}
+    },
+    {
+        "label": "fastapi_users",
+        "kind": 5,
+        "importPath": "user.auth",
+        "description": "user.auth",
+        "peekOfCode": "fastapi_users = FastAPIUsers(\n    get_user_manager,\n    [auth_backend],\n    User,\n    UserCreate,\n    UserUpdate,\n    UserDB,\n)\ncurrent_active_user = Depends(fastapi_users.current_user(active=True))\ncurrent_active_user1 = fastapi_users.current_user(active=True)",
+        "detail": "user.auth",
+        "documentation": {}
+    },
+    {
+        "label": "current_active_user",
+        "kind": 5,
+        "importPath": "user.auth",
+        "description": "user.auth",
+        "peekOfCode": "current_active_user = Depends(fastapi_users.current_user(active=True))\ncurrent_active_user1 = fastapi_users.current_user(active=True)\ncurrent_superuser_user = Depends(fastapi_users.current_user(active=True, superuser=True))",
+        "detail": "user.auth",
+        "documentation": {}
+    },
+    {
+        "label": "current_active_user1",
+        "kind": 5,
+        "importPath": "user.auth",
+        "description": "user.auth",
+        "peekOfCode": "current_active_user1 = fastapi_users.current_user(active=True)\ncurrent_superuser_user = Depends(fastapi_users.current_user(active=True, superuser=True))",
+        "detail": "user.auth",
+        "documentation": {}
+    },
+    {
+        "label": "current_superuser_user",
+        "kind": 5,
+        "importPath": "user.auth",
+        "description": "user.auth",
+        "peekOfCode": "current_superuser_user = Depends(fastapi_users.current_user(active=True, superuser=True))",
+        "detail": "user.auth",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "user.models",
+        "description": "user.models",
+        "peekOfCode": "class User(ormar.Model):\n    class Meta(MainMeta):\n        pass\n    id: str = ormar.UUID(primary_key=True, uuid_format=\"string\")\n    email: str = ormar.String(index=True, unique=True, nullable=False, max_length=12)\n    first_name: str = ormar.String(max_length=255)\n    address: str = ormar.String(max_length=255)\n    hashed_password: str = ormar.String(nullable=False, max_length=255)\n    is_active: bool = ormar.Boolean(default=True, nullable=False)\n    is_superuser: bool = ormar.Boolean(default=False, nullable=False)",
+        "detail": "user.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "user.schemas",
+        "description": "user.schemas",
+        "peekOfCode": "class User(models.CreateUpdateDictModel):\n    id: UUID4 = Field(default_factory=uuid.uuid4)\n    email: str\n    first_name: str\n    address: str = \"\"\n    is_active: bool = True\n    is_superuser: bool = False\n    is_verified: bool = False\nclass UserCreate(models.CreateUpdateDictModel):\n    email: str",
+        "detail": "user.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "user.schemas",
+        "description": "user.schemas",
+        "peekOfCode": "class UserCreate(models.CreateUpdateDictModel):\n    email: str\n    first_name: str\n    password: str\n    address: Optional[str]\n    is_active: Optional[bool]\n    is_superuser: Optional[bool]\n    is_verified: Optional[bool]\nclass UserUpdate(models.CreateUpdateDictModel):\n    password: Optional[str]",
+        "detail": "user.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdate",
+        "kind": 6,
+        "importPath": "user.schemas",
+        "description": "user.schemas",
+        "peekOfCode": "class UserUpdate(models.CreateUpdateDictModel):\n    password: Optional[str]\n    email: Optional[str]\n    first_name: Optional[str]\n    address: Optional[str]\n    is_active: Optional[bool]\n    is_superuser: Optional[bool]\n    is_verified: Optional[bool]\nclass UserDB(User):\n    hashed_password: str",
+        "detail": "user.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserDB",
+        "kind": 6,
+        "importPath": "user.schemas",
+        "description": "user.schemas",
+        "peekOfCode": "class UserDB(User):\n    hashed_password: str\n    class Config:\n        orm_mode = True",
+        "detail": "user.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "MainMeta",
+        "kind": 6,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "class MainMeta(ormar.ModelMeta):\n    metadata = metadata\n    database = database",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_uuid",
+        "kind": 2,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "def get_uuid():\n    return str(uuid4())\nclass MainMeta(ormar.ModelMeta):\n    metadata = metadata\n    database = database",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "metadata",
+        "kind": 5,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "metadata = sqlalchemy.MetaData()\ndatabase = databases.Database(\"sqlite:///sqlite.db\")\nengine = sqlalchemy.create_engine(\"sqlite:///sqlite.db\")\ndef get_uuid():\n    return str(uuid4())\nclass MainMeta(ormar.ModelMeta):\n    metadata = metadata\n    database = database",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "database",
+        "kind": 5,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "database = databases.Database(\"sqlite:///sqlite.db\")\nengine = sqlalchemy.create_engine(\"sqlite:///sqlite.db\")\ndef get_uuid():\n    return str(uuid4())\nclass MainMeta(ormar.ModelMeta):\n    metadata = metadata\n    database = database",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "engine = sqlalchemy.create_engine(\"sqlite:///sqlite.db\")\ndef get_uuid():\n    return str(uuid4())\nclass MainMeta(ormar.ModelMeta):\n    metadata = metadata\n    database = database",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = FastAPI()\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=['*'],\n    allow_credentials=['*'],\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nmetadata.create_all(engine)\napp.state.database = database",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "app.state.database",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app.state.database = database\n@app.on_event(\"startup\")\nasync def startup() -> None:\n    database_ = app.state.database\n    if not database_.is_connected:\n        await database_.connect()\n@app.on_event(\"shutdown\")\nasync def shutdown() -> None:\n    database_ = app.state.database\n    if database_.is_connected:",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "media_dir",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "media_dir = os.path.join(os.getcwd(), \"media\")\n@app.get(\"/media/{name}\", response_class=FileResponse)\nasync def main(name: str):\n    return os.path.join(media_dir, name)",
+        "detail": "main",
+        "documentation": {}
+    }
+]
