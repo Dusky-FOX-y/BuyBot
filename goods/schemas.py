@@ -10,5 +10,5 @@ class GetGood(CreateGood):
     id_: int
 
 
-class GerOrderByID(CreateGood):
+class GetOrderByID(CreateGood):
     id_: int

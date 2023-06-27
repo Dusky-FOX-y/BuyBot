@@ -3,7 +3,7 @@ from typing import List
 from fastapi import APIRouter, HTTPException
 import sqlite3
 from .models import User
-from .schemas import CreateUser, GetUser, UpdateUser
+from .schemas import CreateUser, GetUser, UpdateUser, GetUserByID
 import ormar
 
 user_router = APIRouter(prefix='/user', tags=["Users"])
@@ -36,3 +36,8 @@ async def update_user(user: UpdateUser):
 async def delete_user(tid: int):
     user = await User.objects.filter(tid=tid).get()
     await user.delete()
+
+
+@user_router.get("/getbyid", response_model=GetUserByID)
+async def get_goodbyid(tid: int):
+    return await User.objects.filter(tid=tid).get()

@@ -22,3 +22,7 @@ class UpdateUser(BaseModel):
     name: Optional[str]
     address: Optional[str]
     permissions: Optional[int]
+
+
+class GetUserByID(CreateUser):
+    tid: int
