@@ -50,4 +50,4 @@ app.include_router(orderlist_router)
 # app.include_router(user_router)
 
 if __name__ == "__main__":
-    uvicorn.run(app, use_colors=True)
+    uvicorn.run(app, use_colors=True, host="176.99.12.178", port="8000")
