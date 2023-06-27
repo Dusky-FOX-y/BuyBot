@@ -8,3 +8,7 @@ class CreateGood(BaseModel):
 
 class GetGood(CreateGood):
     id_: int
+
+
+class GerOrderByID(CreateGood):
+    id_: int

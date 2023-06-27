@@ -19,3 +19,4 @@ class UpdateOrder(BaseModel):
     price: Optional[float]
     description: Optional[str]
     status: Optional[int]
+

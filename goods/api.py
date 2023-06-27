@@ -9,7 +9,7 @@ goods_router = APIRouter(prefix='/goods', tags=["Goods"])
 
 
 @goods_router.post("/create", response_model=GetGood)
-async def create_job(job: CreateGood):
+async def create_good(job: CreateGood):
     try:
         return await Good.objects.create(**job.dict())
     except sqlite3.IntegrityError as err:
@@ -17,5 +17,10 @@ async def create_job(job: CreateGood):
 
 
 @goods_router.get("/all", response_model=List[GetGood])
-async def get_jobs():
+async def get_goods():
     return await Good.objects.all()
+
+
+@goods_router.get("/getbyid", response_model=List[GetGood])
+async def get_goodbyid(id_: int):
+    return await Good.objects.filter(id_=id_).get()
