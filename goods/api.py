@@ -21,6 +21,6 @@ async def get_goods():
     return await Good.objects.all()
 
 
-@goods_router.get("/getbyid", response_model=List[GerOrderByID])
+@goods_router.get("/getbyid", response_model=GerOrderByID)
 async def get_goodbyid(id_: int):
     return await Good.objects.filter(id_=id_).get()
