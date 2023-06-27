@@ -10,4 +10,4 @@ class Order(ormar.Model):
     tid: int = ormar.Integer()
     price: float = ormar.Float()
     description: str = ormar.String(max_length=4096, nullable=True)
-    status: int = ormar.Float()
+    status: int = ormar.Integer()
