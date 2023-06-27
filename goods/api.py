@@ -3,7 +3,7 @@ from typing import List
 from fastapi import APIRouter, HTTPException
 import sqlite3
 from .models import Good
-from .schemas import CreateGood, GetGood
+from .schemas import CreateGood, GetGood, GerOrderByID
 
 goods_router = APIRouter(prefix='/goods', tags=["Goods"])
 
@@ -21,6 +21,6 @@ async def get_goods():
     return await Good.objects.all()
 
 
-@goods_router.get("/getbyid", response_model=List[GetGood])
+@goods_router.get("/getbyid", response_model=List[GerOrderByID])
 async def get_goodbyid(id_: int):
     return await Good.objects.filter(id_=id_).get()
